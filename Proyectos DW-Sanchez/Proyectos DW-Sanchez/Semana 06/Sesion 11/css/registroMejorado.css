@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.registros{
+    width: 590px;
+    padding: 30px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    margin: 15px;
+    color: brown;
+}
+#envio{
+    text-align: center;
+    margin: 15px;
+}
+p, .boton, .envio{
+    text-align: center;
+}
+.control{
+    margin:10px;
+    text-align: left; 
+    background-color: rgb(250, 207, 207);
+}
+.btn{
+
+    padding: 3px;
+    margin-left:2px;
+    margin-bottom: 15px;
+    background: rgb(200, 30, 30);
+    border: rgb(200, 30, 30);
+    color: white;
+}
+.img{
+    margin-left: 235px;
+}
+.terminos{
+    margin-block-end: 20px;
+}

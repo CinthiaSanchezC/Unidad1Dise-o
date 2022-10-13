@@ -1,0 +1,53 @@
+#caja1{
+    height: 100px;
+ }
+ 
+ #caja2{
+     width: 500px;
+     height: 200px;
+     float:right;
+     margin-block-start: 25px;
+     margin-left: 15px;
+ }
+ 
+ #caja3{
+     text-align: justify;
+     padding-top: 20px;
+ }
+ 
+ #caja4{
+     background-color: rgb(241, 125, 125);
+     float: right;
+ }
+ h1{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding: 15px;
+    padding-right: 300px;
+ }
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ #inicio{
+    background-color: rgb(117, 112, 112);
+    font-family: Arial;
+    color: white;
+    font-size: 12px;
+   }
+   label{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+h3{
+    color: red;
+    font-size: 12px;
+    margin-block-start: 20px;
+    margin-block-end: 5px;
+    font-family: Arial;
+}
+#circulo{
+  margin-right: 150px;
+   

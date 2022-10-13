@@ -1,0 +1,19 @@
+/*5Titulño de color
+h1{
+    color:rgb(226, 43, 226);
+    font-family: Verdana;
+    font-size: large;
+}
+/*Herencia */
+/*
+body{
+    color:blue
+}
+*/
+body{font-family: Arial; color:black;}
+h1{
+    font-family: Verdana;
+}
+p{
+    color:red;
+}

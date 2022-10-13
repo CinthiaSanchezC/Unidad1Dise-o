@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+legend{
+     background-color: rgb(137, 173, 137);
+     border-radius: 5px;
+     color: green;
+}
+#imagen{
+    float: left;
+    height: 830px;
+}
+.btn{
+    background-color: rgb(62, 131, 62);
+    color: white;
+    border-color: green;
+
+}
+div{
+    float: left;
+    text-align: justify;
+    background-color: rgb(181, 217, 181);
+    padding: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h2{
+    color:green
+}
+.boton{
+text-align: justify;
+margin: 7px;
+margin-left: 100px;
+}
+

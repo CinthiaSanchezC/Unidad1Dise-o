@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+}
+h1{
+    font-family: Times New Roman;
+   
+}
+h2{
+    color:aliceblue;
+    background: coral;
+    font-family: serif;
+}
+footer{
+    color: black;
+    background: white;
+    font-family: Arial;
+    text-align: center;
+    padding: 5px;
+}
+a,strong{
+    color: rgb(10, 9, 60);
+    font-size: 17px;
+}
+fieldset{
+    background: rgba(221, 130, 73, 0.678);
+}
